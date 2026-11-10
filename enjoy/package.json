@@ -148,7 +148,7 @@
     "mime-types": "^2.1.35",
     "mustache": "^4.2.0",
     "new-github-issue-url": "^1.0.0",
-    "next-themes": "^0.4.4",
+    "next-themes": "^0.4.6",
     "octokit": "^4.0.2",
     "openai": "^4.76.0",
     "pitchfinder": "^2.3.2",
